@@ -1,5 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Jhonne 👋
+### QA Lead & Test Automation Architect
 
+Specializing in building scalable test automation frameworks (Playwright, Selenium) and integrating AI solutions into modern Software Testing Life Cycles (STLC).
+
+---
+
+### 🛠️ Tech Stack & Automation Tools
+- **Automation:** Playwright, Selenium WebDriver
+- **Languages:** TypeScript, JavaScript, Python, Java
+- **CI/CD & Dev Tools:** GitHub Actions, Git, VS Code, Postman
+- **Databases & Systems:** PostgreSQL, QNAP NAS
+
+---
+
+### 🚀 Featured QA Repositories
+- [testSuitePlaywright](https://github.com/kiko282503/testSuitePlaywright) — Scalable Playwright TypeScript automation framework featuring Page Object Models (POM), custom fixtures, environment configurations, and HTML reporting.
+- [ai-qa-copilot-be](https://github.com/kiko282503/ai-qa-copilot-be) — Backend AI service for automated failure analysis using Node.js, TypeScript, and the Google Gemini API.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/jhonne-federic-francisco)
 <!--
 **kiko282503/kiko282503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
