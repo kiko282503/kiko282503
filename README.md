@@ -7,9 +7,9 @@ Specializing in building scalable test automation frameworks (Playwright, Seleni
 
 ### 🛠️ Tech Stack & Automation Tools
 - **Automation:** Playwright, Selenium WebDriver
-- **Languages:** TypeScript, JavaScript, Python, Java
-- **CI/CD & Dev Tools:** GitHub Actions, Git, VS Code, Postman
-- **Databases & Systems:** PostgreSQL, QNAP NAS
+- **Languages:** TypeScript, Java, Python
+- **CI/CD & Dev Tools:** Jenkins, GitHub Actions, Git, VS Code, Postman
+- **Databases & Systems:** mySQL, PostgreSQL, QNAP NAS
 
 ---
 
