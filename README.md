@@ -9,7 +9,7 @@ Specializing in building scalable test automation frameworks (Playwright, Seleni
 - **Automation:** Playwright, Selenium WebDriver
 - **Languages:** TypeScript, Java, Python
 - **CI/CD & Dev Tools:** Jenkins, GitHub Actions, Git, VS Code, Postman
-- **Databases & Systems:** mySQL, PostgreSQL, QNAP NAS
+- **Databases & Systems:** MySQL, PostgreSQL, QNAP NAS
 
 ---
 
